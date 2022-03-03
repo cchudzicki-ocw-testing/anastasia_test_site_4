@@ -1,0 +1,5 @@
+leftnav:
+- identifier: d903c65d-ff1e-485c-bd4f-6c8b9487ff94
+  name: this is a menu item
+  url: /pages/dfdsfafsd
+  weight: 10
